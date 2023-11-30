@@ -1,0 +1,61 @@
+# ==============================================================================
+# Auth: Alex Celani
+# File: pl.txt
+# Revn: 09-29-2020  1.1
+# Func: explain and plan story?
+#
+# TODO: story board (sb.txt)
+#       make notes (nt.txt)
+#       plan arcs (pl.txt)
+#       write book (bk.txt)
+# ==============================================================================
+# CHANGE LOG
+# ------------------------------------------------------------------------------
+# 09-29-2020: filled out Func: and TODO:
+#
+# ==============================================================================
+
+
+Inspiration:: "HEY, YOU, POISON THE WELL" -FeedTheMachine, Poor Mans Poison
+
+Setting:: Some sort of middle ages type deal. Swords and bows, crossbows even.
+          Barbarian times? Follows a range of seasons
+
+Main Idea:: Follows character A as he progresses on a journey from Place Aaa to
+            Place Bbb, to kill the King, character B. Character A is accompanied
+            by some sort of omniscient creature X that passes along wisdom and
+            guidance. Creature X guides character A through n trials, but claims
+            that A will face 2n trials. At each trial, X passes along a wisdom
+            that helps A overcome the trial. The next chapter shows The King
+            going through a similar type of trial, and making the opposite
+            decision as A. The final trial of the King involves the King
+            ordering an underling to poison the well, a way of making sure that
+            a captor cannot adequately capture a territory, which selfishly
+            guarantees sacrifice of the subjects, against their will. The final
+            chapter, A rushes into a different kings throneroom, beheads the
+            king, and is declared the new king, renamed as The King, the same
+            character as that makes the wrong decisions at all the same trials.
+
+
+Names:: Character A  -> ?? something of slavic or nordic phonology/etymology
+                     -> 
+        The King, B  -> ?? something similar to a translation of king
+                     ->
+        Creature X   -> Tror? Norwegian for "thinks", maybe Troh for "think"
+                     -> Zina? from znyat'', Russian for "to know"
+        Place Aaa    -> Detica? Old names, man
+                     -> Elyt?
+                     -> Something referencing Norse mythology
+        Place Bbb    -> Elysium/Elysia?
+                     -> Some reference to Norse mythos or Russian history
+
+Trials/Wisdoms:: -> "to a hammer, everything looks like a nail"
+                    rewritten to be more... Barbaria-esque
+                    #TODO explain
+
+                    "an archer sees everything as a target"?
+                 -> "the only thing more important than what you do in this
+                     world is why you do it"
+                    "a man is the sum of his actions, weighted by his motives"
+                    #TODO explain
+
